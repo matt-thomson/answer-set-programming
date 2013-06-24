@@ -1,6 +1,6 @@
-# Say WHAT you want, NOT HOW you want it #
+This repository contains examples from the "Say what you want, not how you want it done: An Introduction to Declarative Programming in Answer Sets" session at [SPA 2013](http://www.spaconference.org).
 
-An Introduction to Declarative Programming in Answer Sets
+The session was led by Willem van den Ende and Marina De Vos.
 
 ## Declarative Programming ##
 
